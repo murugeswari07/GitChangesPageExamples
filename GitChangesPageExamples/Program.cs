@@ -18,13 +18,13 @@ namespace GitChangesPageExamples
 
         static void ChangesGoHere()
         {
-            Console.WriteLine("AAAAA");
-            Console.WriteLine("BBBBB");
-            Console.WriteLine("CCCCC");
-            Console.WriteLine("DDDDD");
-            Console.WriteLine("EEEEE");
-            Console.WriteLine("FFFFF");
-            Console.WriteLine("GGGGG");
+            Console.WriteLine("11111");
+            Console.WriteLine("22222");
+            Console.WriteLine("33333");
+            Console.WriteLine("44444");
+            Console.WriteLine("55555");
+            Console.WriteLine("66666");
+            Console.WriteLine("77777");
         }
     }
 }
