@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System;           
 
 namespace GitChangesPageExamples
 {
@@ -9,10 +9,10 @@ namespace GitChangesPageExamples
             Console.WriteLine("Hello World!");
             Console.WriteLine("The Purpose of this repository is to walk through the basic functionality of Git.");
             Console.WriteLine("This repository should be forked so that you are able to experiment with pushing changes" +
-                              "from your local repository (your computer) to a your remote repository (github.com)");
+                  "from your local repository (your computer) to a your remote repository (github.com)");
 
             // Edits make to this file will be made in:
-            // ChangesGoHere()
+            // ChangesGoHere()  
             // Seen Below...
         }
 
@@ -25,6 +25,14 @@ namespace GitChangesPageExamples
             Console.WriteLine("EEEEE");
             Console.WriteLine("FFFFF");
             Console.WriteLine("GGGGG");
-        }
+            Console.WriteLine("aaaaa");
+            Console.WriteLine("bbbbb");
+            Console.WriteLine("ccccc");
+            Console.WriteLine("9999d");
+            Console.WriteLine("eeeee");
+            Console.WriteLine("fffff");
+            Console.WriteLine("ggggg");
+                    }
     }
 }
+            
